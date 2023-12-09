@@ -7,7 +7,7 @@ const personas = [
   new Persona('Juan', 'Felix'),
   new Persona('Pedro', 'Paez'),
   new Persona('Alejandra', 'Rodriguez'),
-  new Persona('Heidy', 'mamguevo')
+  new Persona('Heidy', 'Lamar')
 ]
 
 function mostrarPersonas () {
